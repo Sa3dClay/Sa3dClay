@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa3dclay&label=Profile%20views&color=0e75b6&style=flat" alt="sa3dclay" /> </p>
 
-- 🔭 I’m currently working on [eco](https://github.com/Sa3dClay/eCo-LaraVue)
+- 🔭 I’m currently working on [eco](https://github.com/Sa3dClay/eCo-LaraVue) and you can give it a try from [here](http://eco-laravue.herokuapp.com/#/) 👈
 
 - 🌱 I’m currently learning **Docker, TypeScript, Node.js, React.js, Tailwind css**
 
